@@ -84,10 +84,10 @@ DATABASES = {
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'mssql',
-#         'NAME': 'bearlab-db',
-#         'USER': 'bearlab-admin',
-#         'PASSWORD': '@dmin1234567',
-#         'HOST': 'bearlab-server.database.windows.net',
+#         'NAME': 'free-sql-db-2039759',
+#         'USER': 'folkk-admin',
+#         'PASSWORD': 'Folk8808',
+#         'HOST': 'folkk-admin.database.windows.net',
 #         'PORT': '1433',
 #         'OPTIONS': {
 #             'driver': 'ODBC Driver 18 for SQL Server',
